@@ -10,7 +10,7 @@
 
     public static void main(String[] args) {
         
-        boolean result1 = isSixtyFive(20, 25);
+        boolean result1 = isSixtyFive(20, 45);
         System.out.println(result1);  
 
         boolean result2 = isSixtyFive(15, 30);
